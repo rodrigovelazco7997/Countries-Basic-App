@@ -1,0 +1,75 @@
+.total{
+    background-image: url(https://images.alphacoders.com/106/thumb-1920-106413.jpg);
+    position: fixed;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: space-between;
+    background-size: cover;
+}
+
+.Box{
+    display:inline-block;
+    background-image: url('https://i.pinimg.com/564x/a5/38/69/a538693abe089400b32b5207ca11a7d9.jpg');
+    background-position-y: 69px;
+    width: 350px;
+    height: 450px;
+    margin-left: 7rem;
+    margin-top: 2.5rem;
+    border:;
+    border-radius: 2em;
+    align-items: center;
+}
+
+.title{
+    margin-top: 01px;
+    size: 100px;
+    font-family: 'Rock Salt', cursive; /* fallback for old browsers */
+    background: -webkit-linear-gradient(to bottom, #fceabb, #f8b500); /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to bottom, #ffb700, #f8b500);
+    color: transparent;
+    text-decoration: underline;
+    -webkit-background-clip: text;
+
+}
+
+
+
+.text{
+    margin-top: 210px;
+    padding:1% ;
+    font-size: 20px;
+    font-family: 'Lexend', sans-serif;
+    font-weight: bold;
+    background: #463510;
+    -webkit-background-clip: text;
+    color: transparent;
+
+}
+a{
+    text-decoration: none;
+    color:inherit
+}
+
+.btnR{
+display: flex;
+margin-left: 127px;
+margin-top: 40px;
+justify-content: center;
+width: 60px;
+border-radius: 0.5em;
+color: #ee9c04 !important;
+font-size: 25px;
+font-weight: 500;
+padding: 0.5em;
+background: rgba(124, 123, 124, 0.548);
+border: 2px solid;
+border-color: #ee9c04;
+transition: all 0.3s ease;
+position: relative;
+}
+
+.btnR:hover{
+        background: #ee9c04;
+        color: #fff !important;
+}

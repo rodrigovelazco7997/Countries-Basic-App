@@ -1,0 +1,82 @@
+.page{
+    background-image: url('https://p4.wallpaperbetter.com/wallpaper/368/476/882/1920x1200-digital-art-earth-map-wallpaper-preview.jpg');
+    position: fixed;
+    width: 100%;
+    height: 100%;
+    display: absolute;
+    justify-content: space-between;
+    background-size: cover;
+    overflow-y: hidden;
+}
+.titlesito{
+    position: absolute;
+    font-size: 40px;
+    font-family: 'Dela Gothic One', cursive;
+    color: chocolate;
+    padding: 12px;
+    border: 2px dotted coral;
+    border-radius: 0.5em;
+    background: black;
+    margin-top: -100px;
+    margin-left: 560px;
+}
+
+.navBarTrucho{
+    background: #ee9c048f;
+    height: 140px;
+    width: 1280px;
+}
+
+.volver{
+    position: absolute;
+    margin-top: 20px;
+    transition: 5s ease-out 
+}
+.volver:hover{
+    background: black ;
+    color: chocolate ;
+    border: 3px groove coral ;
+}
+
+.flag{
+    position: absolute;
+    margin-left: 100px;
+    margin-top: 100px;
+}
+
+.bandera{
+    width: 400px;
+}
+
+.cajaMenor{    
+    background-attachment: absolute;    
+    display: flex;
+    flex-direction: row;
+    margin-left: 750px;
+    margin-top:35px;
+    position:absolute !important;
+    justify-content: space-around;
+    align-items: center;
+    height:400px ;
+    width: 350px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly ;
+    background-color: rgba(255, 255, 255, 0.411);
+    border:3px outset ;
+    border-radius: 1em;
+}
+
+.name{
+    color: #000000;
+    text-decoration: underline double;
+    font-size: 200%;
+}
+
+.names{
+    text-decoration: underline;
+}
+.info{
+    text-decoration: none i !important;
+}
+

@@ -1,0 +1,36 @@
+.searchBar{
+  border:none
+}
+
+input{
+  position: absolute;
+  margin-top: -42.5px;
+  margin-left: -623px;
+  background-color: white;
+  height: 2.5em;
+  width: 15em;
+  border:1px solid #ee9c04;
+  border-radius: 0.4em;
+  font-family: ;
+}
+
+input:focus{
+  outline: none;
+}
+
+.buttonSearch{
+  height: 1.3rem;
+  width: 1.3rem;
+  padding: 0.5rem;
+  border-radius: 0.5em;
+  background-color:rgba(0, 0, 0, 0.171);
+  position: absolute;
+  margin-left: -418px;
+  margin-top: -42px;
+  transition: 0.3s ease-out;
+}
+.buttonSearch:hover{
+  background: white;
+}
+
+

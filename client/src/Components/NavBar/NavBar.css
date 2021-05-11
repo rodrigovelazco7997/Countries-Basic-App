@@ -1,0 +1,26 @@
+.list{
+    list-style: none;
+}
+.addButton{
+    margin-left: 1090px;
+    display:flex;
+    position: absolute;
+    font-family: 'Comfortaa', cursive;
+    font-weight: bold;
+    color: chocolate;
+    background:rgb(10, 8, 4);
+    border:2px solid rgb(0, 0, 0);
+    justify-content: center;
+    align-items: center;
+    margin-top: -10px;
+    border-radius: 1em;
+    width: 70px;
+    height: 70px;
+    transition: 0.3s ease-out;
+}
+
+.addButton:hover{
+    background:chocolate;
+    color: black;
+    border:2px solid black;
+}

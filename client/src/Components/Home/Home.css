@@ -1,0 +1,38 @@
+.home{
+    background-image: url("https://fondosmil.com/fondo/52784.jpg");
+    /* width: 100%;
+    height: 100%; */
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    min-height: 100vh;
+}   
+
+
+.header{
+    width:100%;
+    height: 120px;
+    background:#1a4e3f93;
+    display:inline-block;
+    justify-content:;
+}
+
+.full{
+    margin-top: 10px;
+    margin-right: 20px;
+}
+
+select{
+    font-family: 'Comfortaa', cursive;
+    font-weight: bold;
+    font-size: medium;
+    color:#ee9c04;
+    background:white;
+    border:1px solid #ee9c04;
+    border-radius:1em;
+    height:3em;
+    width:10em;
+  }
+
+
+

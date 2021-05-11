@@ -1,0 +1,106 @@
+.band{
+    width: 80px;
+    height: 50px;
+    justify-content: center;
+    
+
+}
+.continente{
+    justify-content: center;
+    background: rgb(0, 0, 0);
+    color: rgb(250, 166, 9);
+    font-weight: bold;
+}
+
+.linkeo{  
+    justify-content: center !important;
+    background: transparent !important;
+    color: rgb(238, 240, 238) !important;
+    font-weight: bold !important;
+}
+.countries{
+    align-items: center;
+    justify-content: center;
+    display: inline-block;
+    width: 200px;
+    height: 100px;
+    margin:12px;
+    align-items: flex;
+    overflow: hidden;
+    overflow-x: hidden;
+    overflow-y: hidden;
+    padding: 1rem;
+    padding-top: 1rem;
+    padding-right: 1rem;
+    padding-left: 1rem;
+    border-radius: 2em;
+    color: whitesmoke;
+    background: #00000094;
+    box-shadow: 0 1px 1px rgb(0 0 0 / 10%), 0 2px 2px rgb(0 0 0 / 10%), 0 4px 4px rgb(0 0 0 / 10%), 0 8px 8px rgb(0 0 0 / 10%), 0 16px 16px rgb(0 0 0 / 10%);
+}
+
+.plus{
+    position: absolute;
+    height: 3rem;
+    width: 3rem;
+    font-size: 2rem;
+    border-radius: 2em;
+    background-color: black;
+    display: flex;
+    color: chocolate;
+    justify-content: center;
+    align-items: center;
+    margin-top: 230px;
+    margin-left: 1185px;
+    transition: 0.2s ease-out;
+}
+.plus:focus{
+    outline: none;
+}
+.plus:hover{
+    background-color: chocolate;
+    color: black;
+    border:2px solid rgba(190, 60, 60, 0.534)
+
+}
+
+.minus{
+    position: absolute;
+    height: 3rem;
+    width: 3rem;
+    font-size: 2rem;
+    border-radius: 2em;
+    background-color: black;
+    display: flex;
+    color:chocolate;
+    justify-content: center;
+    align-items: center;
+    margin-top: 230px;
+    margin-left: 30px;
+    transition: 0.3s ease-in-out ;
+}
+.minus:focus{
+    outline: none;
+}
+.minus:hover{
+    background-color: chocolate;
+    color: black;
+    border:2px solid rgba(190, 60, 60, 0.534)
+}
+
+.error{
+    margin-left: 350px;
+    font-size: 30px;
+    font-weight: bold;
+    text-decoration: underline;
+    text-decoration-style:wavy ;
+    font-family: 'Comfortaa', cursive;
+    border-radius: 0.5em;
+    border: 2px groove black;
+    background: rgba(255, 235, 205, 0.911);
+    width: 450px;
+    height: 45px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
