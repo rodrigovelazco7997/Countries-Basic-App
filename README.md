@@ -1,6 +1,6 @@
 
 
-<iframe src="https://www.youtube.com/watch?v=lCfw87C-sNw&t=13s"></iframe
+<iframe src="https://www.youtube.com/watch?v=lCfw87C-sNw&t=13s"></iframe>
 
 <h1>Pasos a seguir para correr la app a nivel local</h1>
 
