@@ -1,6 +1,4 @@
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCfw87C-sNw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 <h1>Pasos a seguir para correr la app a nivel local</h1>
 
 <h2>Requisitos:</h2>
