@@ -1,3 +1,7 @@
+<h2> Video sobre la app</h2>
+
+<h3> https://www.youtube.com/watch?v=lCfw87C-sNw&t=1s </h3>
+
 <h1>Pasos a seguir para iniciar la app a nivel local</h1>
 
 <h2>Requisitos:</h2>
