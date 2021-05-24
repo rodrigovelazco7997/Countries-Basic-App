@@ -5,6 +5,10 @@ const { Router } = require('express');
 
 const router = Router();
 
+router.get("/",(req,res)=>{
+    res.send("Correct res")
+})
+
 // Configurar los routers
 // Ejemplo: router.use('/auth', authRouter);
 
