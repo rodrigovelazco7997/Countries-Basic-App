@@ -1,5 +1,4 @@
-
-<h1>Pasos a seguir para correr la app a nivel local</h1>
+<h1>Pasos a seguir para iniciar la app a nivel local</h1>
 
 <h2>Requisitos:</h2>
 	*) Tener instalado NodeJS <br/>
